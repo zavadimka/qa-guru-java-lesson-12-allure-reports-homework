@@ -7,9 +7,6 @@ jobs:
     # где запускаем
     runs-on: ubuntu-latest
     # что делаем
-    permissions:
-      contents: read
-      pull-requests: write
     steps:
       # выкачиваем репозиторий
       - uses: actions/checkout@v4
