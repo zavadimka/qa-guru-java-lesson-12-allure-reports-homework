@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Feb 07 13:17:16 GMT 2024","Wed Feb 07 13:17:18 GMT 2024","2185","","Тесты с использованием лямба-степов","","com.zavadimka.LambdaStepsTest","testLambdaStep","Поиск Issue с заданным номером",""
+"passed","Wed Feb 07 13:17:18 GMT 2024","Wed Feb 07 13:17:20 GMT 2024","2612","","Тесты с использованием веб-степов","","com.zavadimka.WebStepsTest","testAnnotatedStep","Поиск Issue с заданным номером",""
+"passed","Wed Feb 07 13:17:08 GMT 2024","Wed Feb 07 13:17:15 GMT 2024","7663","","Тесты с чистым Selenide","","com.zavadimka.CleanSelenideTest","issueSearchTest","Поиск Issue с заданным номером",""
